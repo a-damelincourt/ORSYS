@@ -82,6 +82,6 @@ public class StringUtilitaireTest {
 		assertEquals("9ORSYS",w2);
 	}
 
-
+	/** Pas de transformation de la cha�ne de caracteres si le premier n'est pas une lettre minuscule ou majuscule **/
 	
 }
