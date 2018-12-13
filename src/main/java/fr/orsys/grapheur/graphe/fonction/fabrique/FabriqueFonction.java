@@ -168,7 +168,7 @@ public class FabriqueFonction {
 	 * @return la fonction compilee
 	 * @throws ErreurSyntaxe
 	 *             en cas d'erreur de syntaxe (symboles manquants ou inatendus)
-	 */
+	 **/
 	public Fonction creerFonction(String texteFonction) throws ErreurSyntaxe {
 
 		CompilateurFonction compilateur = new CompilateurFonction(
